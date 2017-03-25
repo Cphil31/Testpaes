@@ -17,16 +17,28 @@
 				<a class="item"><h3>Qui sommes-nous</h3></a>
 				<a class="item"><h3>Contact</h3></a>
 			</div>
-
-			<span>Agence Européenne de Sensibilisation et d'Accompagnement aux Technologies Immotiques</span>
-
-			<span>Association à but non lucratif régie par la loi du 1er Juillet 1901 et le décret du 16 Août 1901</span>
-
+		</div>
 
 			<div class="two wide column"></div>
 		</div>
+		<div class="ui grid">
+			  <div class="two wide column"></div>
+			  <div class="twelve wide center aligned column">
+			  <span>Agence Européenne de Sensibilisation et d'Accompagnement aux Technologies Immotiques</span>
+			  </div>
+			  <div class="two wide column"></div>
+		</div>
+
+		<div class="ui grid">
+		  <div class="two wide column"></div>
+		  <div class="twelve wide center aligned column">
+		  <span>Association à but non lucratif régie par la loi du 1er Juillet 1901 et le décret du 16 Août 1901</span>	
+		  </div>
+		  <div class="two wide column"></div>
+		</div>
 
 		<img src="http://placehold.it/1500x300">
+
 
 		<p>
 		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores in consequuntur, odit voluptates expedita, laudantium qui, libero ea maxime nemo doloremque obcaecati provident facere aperiam, ducimus. Laudantium animi, autem nam.</p>
@@ -35,8 +47,18 @@
 
 		<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, ut quas necessitatibus sit vitae. Voluptatibus molestias veritatis a magni minus commodi. Sequi eius voluptate, itaque dolore reiciendis blanditiis expedita eveniet?</span>
 
-Vous pouvez aussi nous contacter en cliquant ici 
 
-			<script src="https://cdn.jsdelivr.net/semantic-ui/2.2.9/semantic.min.js"></script>
+
+		<div class="ui grid">
+		  <div class="two wide column"></div>
+		  <div class="twelve wide column">
+				<div class="ui center aligned segment">
+				 	<p>Vous pouvez aussi nous contacter en cliquant ici</p>
+				</div>
+		  </div>
+		  <div class="two wide column"></div>
+		</div>
+
+		<script src="https://cdn.jsdelivr.net/semantic-ui/2.2.9/semantic.min.js"></script>
 		</body>
 		</html>
