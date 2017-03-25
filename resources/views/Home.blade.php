@@ -40,12 +40,23 @@
 		<img src="http://placehold.it/1500x300">
 
 
-		<p>
-		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores in consequuntur, odit voluptates expedita, laudantium qui, libero ea maxime nemo doloremque obcaecati provident facere aperiam, ducimus. Laudantium animi, autem nam.</p>
+		<div class="ui grid">
+		  <div class="two wide column"></div>
+		  <div class="twelve wide center aligned column">
+		  <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis aliquid saepe neque deserunt voluptates labore nemo officiis a odio est accusantium laboriosam vitae non modi possimus, iure voluptatum, pariatur placeat?</span>	
+		  </div>
+		  <div class="two wide column"></div>
+		</div>
 
 		<img src="http://placehold.it/1500x300">
 
-		<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, ut quas necessitatibus sit vitae. Voluptatibus molestias veritatis a magni minus commodi. Sequi eius voluptate, itaque dolore reiciendis blanditiis expedita eveniet?</span>
+		<div class="ui grid">
+		  <div class="two wide column"></div>
+		  <div class="twelve wide center aligned column">
+		  <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis aliquid saepe neque deserunt voluptates labore nemo officiis a odio est accusantium laboriosam vitae non modi possimus, iure voluptatum, pariatur placeat?</span>	
+		  </div>
+		  <div class="two wide column"></div>
+		</div>
 
 
 
